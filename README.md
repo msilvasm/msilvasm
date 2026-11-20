@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FACC15&height=140&section=header&text=Miguel%20Macedo&fontColor=000000&fontSize=40&fontAlign=20&fontAlignY=35&animation=fadeIn" width="100%" />
+# Miguel Macedo
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FACC15&vCenter=true&width=500&lines=Desenvolvedor+full+stack;React+%2B+TypeScript+%2B+Supabase;Sistemas+para+a+%C3%A1rea+da+sa%C3%BAde" />
 
