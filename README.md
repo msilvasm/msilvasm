@@ -1,4 +1,4 @@
-# Miguel Macedo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FACC15&height=140&section=header&text=Miguel%20Macedo&fontColor=000000&fontSize=40&fontAlign=20&fontAlignY=35&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FACC15&vCenter=true&width=500&lines=Desenvolvedor+full+stack;React+%2B+TypeScript+%2B+Supabase;Sistemas+para+a+%C3%A1rea+da+sa%C3%BAde" />
 
@@ -15,5 +15,3 @@ Desenvolvedor full stack. Construo sistemas para a área da saúde com React, Ty
 
 <img height="160" src="https://github-readme-stats-tau-liard-53.vercel.app/api?username=msilvasm&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=facc15&text_color=c9d1d9&icon_color=facc15&locale=pt-br&v=4" />
 <img height="160" src="https://github-readme-stats-tau-liard-53.vercel.app/api/top-langs/?username=msilvasm&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=facc15&text_color=c9d1d9&locale=pt-br&v=4" />
-
-<img src="https://raw.githubusercontent.com/msilvasm/msilvasm/output/snake.svg" />
