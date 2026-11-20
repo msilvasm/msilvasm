@@ -1,6 +1,4 @@
-# Miguel Macedo
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FACC15&vCenter=true&width=500&lines=Desenvolvedor+full+stack;React+%2B+TypeScript+%2B+Supabase;Sistemas+para+a+%C3%A1rea+da+sa%C3%BAde" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FACC15&vCenter=true&width=520&height=45&lines=Miguel+Macedo;Desenvolvedor+full+stack;React+%2B+TypeScript+%2B+Supabase" />
 
 Desenvolvedor full stack. Construo sistemas para a área da saúde com React, TypeScript e Supabase, do banco de dados à interface.
 
