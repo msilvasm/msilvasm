@@ -1,6 +1,6 @@
-## sobre mim
+## Miguel Silva
 
-Olá! Sou o Miguel, desenvolvedor full stack 👋
+Desenvolvedor full stack. Construo sistemas para a área da saúde com React, TypeScript e Supabase, do banco de dados à interface.
 
 ## techs
 
@@ -11,6 +11,6 @@ Olá! Sou o Miguel, desenvolvedor full stack 👋
 ## stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msilvasm&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilvasm&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats-tau-liard-53.vercel.app/api?username=msilvasm&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats-tau-liard-53.vercel.app/api/top-langs/?username=msilvasm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
