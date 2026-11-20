@@ -1,16 +1,16 @@
-## Hi there 👋
+## sobre mim
 
-<!--
-**msilvasm/msilvasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou o Miguel, desenvolvedor full stack 👋
 
-Here are some ideas to get you started:
+## techs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase,postgres,git,github" />
+</p>
+
+## stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msilvasm&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilvasm&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
