@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A855F7&vCenter=true&width=500&height=28&lines=Desenvolvedor+full+stack;React+%2B+TypeScript+%2B+Supabase;Sistemas+para+a+%C3%A1rea+da+sa%C3%BAde" /><br>
 Desenvolvedor full stack. Construo sistemas com React, TypeScript e Supabase, do banco de dados à interface.
 
-### Onde me encontrar:
+### Como chegar até mim:
 
 <a href="https://www.linkedin.com/in/miguelms26/"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
 <a href="mailto:miguel.m.silva26@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
